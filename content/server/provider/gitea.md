@@ -31,7 +31,7 @@ Please note we strongly recommend installing Drone on a dedicated instance. We d
 
 ## Create an OAuth Application
 
-Create a Gitea OAuth application. The Consumer Key and Consumer Secret are used to authorize access to Gitea resources.
+Create a Gitea OAuth application from the account settings. The Consumer Key and Consumer Secret are used to authorize access to Gitea resources.
 
 <div class="alert alert-warn">
 The authorization callback URL must match the below format and path, and must use your exact server scheme and host.
